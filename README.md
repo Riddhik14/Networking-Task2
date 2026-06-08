@@ -1,6 +1,6 @@
 # Networking-Task2
 Networking Task 02: Network Devices & IP Addressing
-Date: June 8, 2026
+Date: June 7, 2026
 Intern: Riddhi Kshatriya
 
 Objective
